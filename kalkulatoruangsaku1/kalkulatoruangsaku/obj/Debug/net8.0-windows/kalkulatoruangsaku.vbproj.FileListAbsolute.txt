@@ -1,0 +1,16 @@
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\bin\Debug\net8.0-windows\kalkulatoruangsaku.exe
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\bin\Debug\net8.0-windows\kalkulatoruangsaku.deps.json
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\bin\Debug\net8.0-windows\kalkulatoruangsaku.runtimeconfig.json
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\bin\Debug\net8.0-windows\kalkulatoruangsaku.dll
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\bin\Debug\net8.0-windows\kalkulatoruangsaku.pdb
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.Form1.resources
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.vbproj.GenerateResource.cache
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.GeneratedMSBuildEditorConfig.editorconfig
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.AssemblyInfoInputs.cache
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.AssemblyInfo.vb
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.vbproj.CoreCompileInputs.cache
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.dll
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\refint\kalkulatoruangsaku.dll
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.pdb
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\kalkulatoruangsaku.genruntimeconfig.cache
+E:\HILMAN\My Project\kalkulatoruangsaku1\kalkulatoruangsaku\obj\Debug\net8.0-windows\ref\kalkulatoruangsaku.dll
